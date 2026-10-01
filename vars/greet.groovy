@@ -1,4 +1,4 @@
 def call(String msg='Welcome'){
     echo "Message Recived is :${msg}"
-    echo "Executed From Jenkins Shared Libra"
+    echo "Executed From Jenkins Shared Libray"
 }
